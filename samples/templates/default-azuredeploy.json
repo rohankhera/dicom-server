@@ -455,6 +455,7 @@
             "properties": {
                 "accessTier": "Hot",
                 "supportsHttpsTrafficOnly": "true"
+                "minimumTlsVersion": "1.2"
             }
         },
         {
